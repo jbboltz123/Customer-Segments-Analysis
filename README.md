@@ -4,7 +4,8 @@ Unsupervised Learning Project
 
 ## Template code
 
-In this directory (`customer_segments/`), run `ipython notebook`, open `customer_segments.ipynb` and follow the instructions.
+In the top-level directory containing your 3 files given here, run the command:
+`ipython notebook customer_segments.ipynb`
 
 Note: You need Python 2.7, NumPy, pandas, matplotlib and scikit-learn to work on this notebook.
 
