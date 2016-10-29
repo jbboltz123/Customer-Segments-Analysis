@@ -4,7 +4,7 @@ Unsupervised Learning Project
 
 ## Template code
 
-In the top-level directory containing your 3 files given here, run the command:
+In the top-level directory containing your 2 files given here, run the command:
 `ipython notebook customer_segments.ipynb`
 
 Note: You need Python 2.7, NumPy, pandas, matplotlib and scikit-learn to work on this notebook.
